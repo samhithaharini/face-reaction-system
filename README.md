@@ -53,8 +53,7 @@ A real-time facial emotion recognition system that detects faces and analyzes em
 
 Here's an example of the system's output displaying detected reactions:
 
-![Face Reaction System Output](output
-.png)
+![Face Reaction System Output](output.png)
 
 - **Happy**: Green bounding box
 - **Sad/Cry**: Blue bounding box
