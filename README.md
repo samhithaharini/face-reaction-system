@@ -80,9 +80,3 @@ The system consists of two main components:
 - **Main Application** (`main.py`): Manages webcam input, processes frames, and displays results using OpenCV.
 
 
-## Acknowledgments
-
-- [MediaPipe](https://mediapipe.dev/) for face landmarking
-- [FER](https://github.com/justinshenk/fer) for emotion recognition
-- OpenCV for computer vision utilities</content>
-<parameter name="filePath">c:\Users\user\DATA SCIENCE\Deep Learning\Face Reaction System\README.md
