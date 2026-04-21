@@ -79,13 +79,6 @@ The system consists of two main components:
 - **EmotionEngine** (`emotion_engine.py`): Handles face detection, emotion analysis, and reaction refinement using MediaPipe and FER.
 - **Main Application** (`main.py`): Manages webcam input, processes frames, and displays results using OpenCV.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
